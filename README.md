@@ -8,6 +8,7 @@ A simple and compact 50 Ohm dummy load kit using:
   * 1 W resistor = 20 W
 
 :warning: Do not mix and match powers, pick one and only one !
+
 :warning: Untested design for now.
 
 # [FR] "Charge fictive maison"
@@ -20,4 +21,5 @@ Une charge fictive 50 Ohm simple et compacte, faite avec:
   * Resistance 1 W = 20 W
 
 :warning: Ne pas mélanger les puissances, choisissez-en une et seulement une !
+
 :warning: Design non-testé pour l'instant.
