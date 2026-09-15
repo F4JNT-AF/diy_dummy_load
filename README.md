@@ -1,3 +1,5 @@
+![PCB](/img/pcb_kicad.png)
+
 # [EN] "DIY Dummy Load" (FR below)
 A simple and compact 50 Ohm dummy load kit using:
 * 2 sandwiched PCBs (such as the ones in this repo, or it can be done using copper-clad PCB and drills)
